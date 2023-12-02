@@ -198,11 +198,11 @@ header .themeSelector .activeTheme{
   }
 
   .addTask input[type="text"] {
-    font-size: 14px;
+    font-size: 18px;
   }
 
   .addTask button[type="submit"] {
-    font-size: 14px;
+    font-size: 18px;
   }
   
 }
