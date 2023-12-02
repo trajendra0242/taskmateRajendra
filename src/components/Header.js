@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 import { useState } from "react"
-import Logo from "../assets/logo.png"
+import Logo from "../assets/logo2.png"
 
 export const Header = () => {
   const [theme, setTheme] = useState(JSON.parse(localStorage.getItem("theme")) || "medium");
