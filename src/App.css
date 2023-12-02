@@ -193,4 +193,8 @@ header .themeSelector .activeTheme{
   .showTask li{
     width: 100%;
   }
+    .addTask {
+    max-width: 90%;
+  }
+  
 }
