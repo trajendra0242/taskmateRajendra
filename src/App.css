@@ -193,8 +193,16 @@ header .themeSelector .activeTheme{
   .showTask li{
     width: 100%;
   }
-    .addTask {
-    max-width: 90%;
+  .addTask {
+    padding: 15px;
+  }
+
+  .addTask input[type="text"] {
+    font-size: 14px;
+  }
+
+  .addTask button[type="submit"] {
+    font-size: 14px;
   }
   
 }
